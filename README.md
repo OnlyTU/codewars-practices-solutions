@@ -23,3 +23,5 @@
  Q9 - Century From Year
  
  Q10 - Quarter of the year
+ 
+ Q11 - Square(n) Sum
