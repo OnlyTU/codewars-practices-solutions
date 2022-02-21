@@ -17,16 +17,13 @@ Solution Explanation:
 package kata
 
 func SquareSum(numbers []int) int {
+  result := 0
   
-  temp := 0
+  for _, n := range numbers {
+    result += n * n
+  }
   
-  if len(numbers) != 0 {
-    for i := 0; len(numbers) > i; i++ {
-      temp += numbers[i] * numbers[i]
-    }       
-    return temp
-  }  
-  return 0
+  return result
 }
 
  /*
