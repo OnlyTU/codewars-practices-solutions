@@ -9,7 +9,7 @@ For example: month 2 (February), is part of the first quarter; month 6 (June), i
 
 - Solution Explanation
 
-- In order to calculate which quarter the given month belongs to, it will be sufficient to find between which months that month belongs.
+- If we create an array and subtract 1 from the given month value, we can find which quarter we are in..
 
 */
 
@@ -17,24 +17,8 @@ For example: month 2 (February), is part of the first quarter; month 6 (June), i
 package kata
 
 func QuarterOf(month int) int {
-  if month > 9 && month < 13 { return 4 }
-  if month > 6 && month < 10 { return 3 }
-  if month > 3 && month < 7 { return 2 }
-  if month > 0 && month < 4 { return 1 }
-  return 0
+  quarter := [12] int {1,1,1,2,2,2,3,3,3,4,4,4} 
+  return quarter[month - 1]
 }
 
-/*
 
-- Test
-
-var _ = Describe("Test Example", func() {
-  It("should test example values", func() {
-    Expect(QuarterOf(3)).To(Equal(1))
-    Expect(QuarterOf(8)).To(Equal(3))
-    Expect(QuarterOf(11)).To(Equal(4))
-  })
-})
-
-
-*/
