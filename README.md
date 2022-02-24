@@ -12,7 +12,7 @@
  
  Q3 - Grasshopper - Terminal game move function - [terminal-game.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/terminal-game.go) | [terminal_game_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/terminal_game_test.go)
  
- Q4 - Keep Hydrated! - [litre-of-water.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/litres-of-water.go) | [litre_of_water_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/litre_of_water_test.go)
+ Q4 - Keep Hydrated! - [litre-of-water.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/litre-of-water.go) | [litre_of_water_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/litre_of_water_test.go)
  
  Q5 - Is n divisible by x and y? - [divisibility.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/divisibility.go) | [divisibility_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/divisibility_test.go)
  
