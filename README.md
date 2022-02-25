@@ -27,3 +27,7 @@
  Q10 - Quarter of the year - [quarter-of-the-year.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/quarter-of-the-year.go) | [quarter_year_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/quarter_year_test.go)
  
  Q11 - Square(n) Sum - [sum-of-square-n.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/sum-of-square-n.go) | [sum_of_square_n_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/sum_of_square_n_test.go)
+ 
+  > Level : 7kyu
+
+Q12 - Is this a triangle? - [is-triangle.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/is-triangle.go) | [is_triangle_test.go](https://github.com/OnlyTU/codewars-practices-solutions/blob/main/is_triangle_test.go)
