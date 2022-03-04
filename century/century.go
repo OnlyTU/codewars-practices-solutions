@@ -1,4 +1,4 @@
-package kata
+package century
 
 func century(year int) int {
 	if year < 100 {

@@ -1,4 +1,4 @@
-package kata
+package century
 
 import (
 	"testing"
@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test_ShouldReturnTheCorrectValues(t *testing.T) {
+func Test_Century(t *testing.T) {
 	assert.Equal(t, 20, century(1990))
 	assert.Equal(t, 18, century(1705))
 	assert.Equal(t, 19, century(1900))
