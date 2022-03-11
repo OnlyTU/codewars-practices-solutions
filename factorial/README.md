@@ -1,11 +1,11 @@
-**Question :**
+### Question :
 
 Your task is to write function factorial.
 
 https://en.wikipedia.org/wiki/Factorial
 
 
-**Solution Explanation :**
+### Solution Explanation :
 
 I solved Recursion method.
 

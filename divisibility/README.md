@@ -1,4 +1,4 @@
-**Question:**
+### Question:
 
 Create a function that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero digits.
  
@@ -9,7 +9,7 @@ Examples:
 4) n =  12, x = 7, y = 5 => false because  12 is neither divisible by 7 nor 5
 
 
-**Solution Explanation:**
+### Solution Explanation:
 
 If a given number is equal to 0 after dividing by x and y, that number is divisible by x and y. 
 

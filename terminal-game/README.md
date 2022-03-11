@@ -1,4 +1,4 @@
-**Question :** 
+### Question :
 
 Terminal game move function
 In this game, the hero moves from left to right. The player rolls the die and moves the number of spaces indicated by the die two times.
@@ -9,7 +9,7 @@ Example:
 move(3, 6) should equal 15
 
 
-**Solution Explanation :**
+### Solution Explanation :
 
 The hero must move 2 times the value of the rolled dice. 
 

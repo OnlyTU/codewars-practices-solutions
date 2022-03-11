@@ -1,4 +1,4 @@
-**Question :**
+### Question :
 
 Return the Nth Even Number
 
@@ -12,7 +12,7 @@ Example(Input --> Output):
 The input will not be 0.
 
 
-**Solution Explanation :**
+### Solution Explanation :
 
 If we multiply the given number by 2 and subtract 2, we can find which even number it corresponds to. 
 
